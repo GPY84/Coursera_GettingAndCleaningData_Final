@@ -8,12 +8,14 @@ This code book describes all of the data fields in the Tidy_Data.txt file.
 subject - integer - The ID of the test subject
 
 values:
+
 1 - 30
 
 
 activity - string - The type of activity that they were performing when the measurements were taken
 
 values:
+
 Walking
 Walking Upstairs
 Walking Downstairs
@@ -27,6 +29,7 @@ Laying
 These variables are all of the mean values for the corresponding measurement based on the subject and the activity.  These are all of data type numeric.
 
 values:
+
 tBodyAccmeanX
 tBodyAccmeanY
 tBodyAccmeanZ
